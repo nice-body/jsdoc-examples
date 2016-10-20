@@ -1,7 +1,6 @@
 一些 jsdoc 的例子。
 
 # 例子
-------
 - metadate
 - constructor
 - module
@@ -10,3 +9,6 @@
  - ES2015
  - typescript
 - namespace
+
+# 许可
+MIT
